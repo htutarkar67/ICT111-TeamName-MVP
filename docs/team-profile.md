@@ -13,7 +13,7 @@ Team 3
 
 # Team Working Agreement
 
-1. **Meeting Schedule:** After every class.
+1. **Meeting Schedule:** Every Thursday.
 
 2. **Communication Channel:** LINE group.
 
