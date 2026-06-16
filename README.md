@@ -47,7 +47,7 @@ The team plans to develop a web-based movie recommendation platform called Movie
 
 | Week | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and tourism idea exploration | Repository, team profile, and initial venture idea | In progress |
+| Lab 1 | Lab setup and movie idea exploration | Repository, team profile, and initial venture idea | In progress |
 
 ## Current Status
 During Lab 1, the team created the project repository, selected the Movie Recommendation System idea, identified the target users and problem area, and assigned team roles. The initial project structure was also prepared.
