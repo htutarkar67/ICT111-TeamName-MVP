@@ -47,10 +47,17 @@ The team plans to develop a web-based movie recommendation platform called Movie
 
 | Week | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and movie idea exploration | Repository, team profile, and initial venture idea | In progress |
+| Lab 1 | Lab setup and movie idea exploration | Repository, team profile, and initial venture idea | Completed |
+| Lab 02 | Opportunity Scanning & Selection | Reviewed several project ideas, applied NUF scoring, and selected the Movie Recommendation System. | In Progress |
 
 ## Current Status
 During Lab 1, the team created the project repository, selected the Movie Recommendation System idea, identified the target users and problem area, and assigned team roles. The initial project structure was also prepared.
 
-## Next Step
-For Lab 2, the team will conduct customer validation through surveys and interviews and start developing the Business Model Canvas.
+### Current Status
+
+In Lab 02, our team evaluated multiple project ideas and used the NUF scoring method to compare them. Based on the results, we selected the **Movie Recommendation System** as our semester project.
+
+### Next Step
+
+In Lab 03, we will conduct customer discovery interviews to validate the problem and gather feedback from potential users.
+
