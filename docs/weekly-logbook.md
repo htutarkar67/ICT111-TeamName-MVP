@@ -89,3 +89,68 @@ Although the idea helps users organize movies they want to watch, it mainly focu
 4. Refine the project value proposition based on customer feedback.
 5. Document research findings and update the project repository.
 
+# Lab 03: Customer Problem Discovery
+
+## What We Completed
+
+**Defined Target Respondents:** Identified university students, movie enthusiasts, and streaming platform users as the primary target groups for our research.
+
+**Formulated Non-Leading Discovery Questions:** Created a set of customer discovery questions focused on how users currently find movies, the challenges they face, existing workarounds, and the consequences of poor movie recommendations.
+
+**Structured Repository Evidence Files:** Formatted and pushed the foundational documentation templates to GitHub, including `/docs/customer-questions.md`, `/docs/problem-notes.md`, and `/docs/assumption-evidence-table.md`.
+
+---
+
+## What We Learned About the Problem
+
+**Opinion vs. Fact Split:** We discovered that some features we initially considered important were less valuable to users than expected. Users care more about receiving accurate and relevant movie recommendations than having many advanced features.
+
+**Inefficiency of Current Alternatives:** Users currently rely on friends, social media, Google searches, review websites, and streaming platform suggestions. These methods often require significant time and effort before finding a suitable movie.
+
+**Severe Friction Points:** The main problem is the difficulty of finding movies that match personal interests. Users frequently experience decision fatigue because of the large number of available movie choices.
+
+---
+
+## What Evidence We Collected
+
+**Number of respondents/interviews:** 22 (Data collection completed)
+
+**Evidence file:** `/data/raw-responses.xlsx`
+
+**Key repeated pattern:** Many respondents reported spending a long time browsing movies before making a decision and often felt overwhelmed by the number of options available.
+
+---
+
+## What We Changed Based on Evidence
+
+**Focus on Personalization:** Based on interview feedback, we decided to prioritize personalized movie recommendations instead of adding many extra features.
+
+**Feature Prioritization:** We refined the MVP scope to focus on user preferences, genre selection, recommendation results, and movie discovery features.
+
+---
+
+## Problems or Difficulties
+
+**Formulating Neutral Questions:** It was challenging to create interview questions that focused on understanding user behavior without influencing their responses.
+
+**Scheduling Coordination:** Coordinating interview times with respondents and team members required careful planning and communication.
+
+---
+
+## Evidence of Work
+
+**GitHub repository link:** https://github.com/htutarkar67/ICT111-WatchMate-MVP
+
+**Customer questions file:** `/docs/customer-questions.md`
+
+**Raw responses file:** `/data/raw-responses.xlsx`
+
+**Assumption-evidence table:** `/docs/assumption-evidence-table.md`
+
+**Commit link:** https://github.com/htutarkar67/ICT111-WatchMate-MVP/commits/main/
+
+---
+
+## Plan for Lab 04
+
+In Lab 04, the team will analyze the customer discovery findings and define a clear target user persona for the Movie Recommendation System. We will create user stories based on validated user needs and prioritize features that directly address the problems identified during customer interviews. This will help ensure that the MVP is built around real user evidence rather than assumptions.
