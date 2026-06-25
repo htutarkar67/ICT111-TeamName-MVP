@@ -154,3 +154,98 @@ Although the idea helps users organize movies they want to watch, it mainly focu
 ## Plan for Lab 04
 
 In Lab 04, the team will analyze the customer discovery findings and define a clear target user persona for the Movie Recommendation System. We will create user stories based on validated user needs and prioritize features that directly address the problems identified during customer interviews. This will help ensure that the MVP is built around real user evidence rather than assumptions.
+
+
+# Lab 04 - Weekly Logbook
+
+## Group Information
+
+**Course:** ICT105 Fundamental Technology Entrepreneurship
+**Lab:** Lab 04 - User Persona, Requirements, and User Stories
+**Group Name:** WatchMate
+**Repository Link:** [Insert GitHub Repository Link]
+**Date:** [Insert Date]
+
+---
+
+## 1. Sub-topics Completed
+
+| Sub-topic Completed                                  | Status                                 |
+| ---------------------------------------------------- | -------------------------------------- |
+| User persona and target users.                       | completed                              |
+| System requirements for WatchMate were.              | completed                              |
+| User stories and acceptance criteria.                | completed                              |
+| README and project documentation were.               | completed                              |
+
+---
+
+## 2. Main Decisions
+
+**Primary target user:**
+
+* Movie viewers who struggle to find suitable movies quickly.
+
+**Main persona:**
+
+* Alex Tan, a university student who spends too much time searching for movies and wants personalized recommendations.
+
+**Most important problem:**
+
+* Users are overwhelmed by too many movie choices and have difficulty finding movies that match their preferences.
+
+**Must-have requirements:**
+
+* AI chatbot for movie recommendations.
+* Movie search functionality.
+* Movie detail page.
+* User chat history storage.
+* Admin view of chat history.
+
+**Features included in MVP:**
+
+* AI chatbot recommendation system.
+* Search movies.
+* View movie details.
+* Browse trending movies.
+* Store recommendation/chat history.
+* Admin dashboard for viewing user chat history.
+
+**Features postponed:**
+
+* User account registration.
+* Social sharing features.
+* Advanced recommendation analytics.
+* Personalized user profiles.
+
+---
+
+## 3. Requirement Changes / Clarifications
+
+* The project was updated from a traditional movie recommendation system to an AI-powered movie recommendation chatbot.
+* Admin users will not manage movie records.
+* Admin functionality will focus on viewing user chat history and chatbot usage data.
+* The chatbot will be the primary method for generating movie recommendations.
+
+---
+
+## 4. Problems Encountered
+
+**Technical problem:**
+
+* Determining how to integrate AI chatbot recommendations into the prototype.
+
+**Team coordination problem:**
+
+* Scheduling discussion times among team members.
+
+**Evidence/requirement problem:**
+
+* Matching user stories and requirements with Lab 03 validation evidence.
+
+---
+
+## 5. Next Actions Before Lab 05
+
+| Task                                        | Owner       | Deadline | GitHub Issue |
+| ------------------------------------------- | ----------- | -------- | ------------ |
+
