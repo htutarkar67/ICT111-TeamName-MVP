@@ -167,7 +167,7 @@ Movie viewers who have difficulty finding movies that match their preferences an
 
 ## GitHub Contribution Evidence
 
-All members contributed to this repository through commits, issues, pull requests, documentation updates, prototype design activities, or requirement analysis tasks. Evidence can be viewed in the repository commit history and issue tracker.
+#All members contributed to this repository through commits, issues, pull requests, documentation updates, prototype design activities, or requirement analysis tasks. Evidence can be viewed in the repository commit history and issue tracker.
 
 
 
