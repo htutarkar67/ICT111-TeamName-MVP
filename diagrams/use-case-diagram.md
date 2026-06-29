@@ -1,2 +1,1 @@
-
-<img width="624" height="1971" alt="movie recommendation system drawio" src="https://github.com/user-attachments/assets/630a9652-0df6-44c2-9f65-0d604d82c736" />
+<img width="883" height="1036" alt="Use-Case Movie recommendation system  drawio" src="https://github.com/user-attachments/assets/3ce49603-e001-4a0f-ac9d-3d6b0c3ef4cb" />
